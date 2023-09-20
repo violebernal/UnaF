@@ -1,0 +1,8 @@
+COMESTIBLES
+pan 
+azucar
+sal
+LIMPIEZA
+detergente 
+lavandina
+desodorante
